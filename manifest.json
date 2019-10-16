@@ -1,0 +1,38 @@
+{
+  "name": "KEPSIR - Musik, seni, ulasan, video, galeri, blog dan lainnya.",
+  "short_name": "HELLO KEPS",
+  "start_url": "https://www.kepsir.com",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#f50",
+  "description": "Media kolektif, kolaboratif, inisiatif. // Weblog Noise.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-6_wIgrk1hZY/XacNw6rDT-I/AAAAAAAAAgA/ISGebF2yaWobJV-W0L14W7ij2jvp6j62ACLcBGAsYHQ/s48/KEPS-512.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6_wIgrk1hZY/XacNw6rDT-I/AAAAAAAAAgA/ISGebF2yaWobJV-W0L14W7ij2jvp6j62ACLcBGAsYHQ/s72/KEPS-512.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6_wIgrk1hZY/XacNw6rDT-I/AAAAAAAAAgA/ISGebF2yaWobJV-W0L14W7ij2jvp6j62ACLcBGAsYHQ/s96/KEPS-512.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6_wIgrk1hZY/XacNw6rDT-I/AAAAAAAAAgA/ISGebF2yaWobJV-W0L14W7ij2jvp6j62ACLcBGAsYHQ/s144/KEPS-512.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6_wIgrk1hZY/XacNw6rDT-I/AAAAAAAAAgA/ISGebF2yaWobJV-W0L14W7ij2jvp6j62ACLcBGAsYHQ/s168/KEPS-512.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6_wIgrk1hZY/XacNw6rDT-I/AAAAAAAAAgA/ISGebF2yaWobJV-W0L14W7ij2jvp6j62ACLcBGAsYHQ/s192/KEPS-512.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6_wIgrk1hZY/XacNw6rDT-I/AAAAAAAAAgA/ISGebF2yaWobJV-W0L14W7ij2jvp6j62ACLcBGAsYHQ/s512/KEPS-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
