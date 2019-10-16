@@ -5,7 +5,7 @@
   "background_color": "#ff5500",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "/www.kepsir.com",
+  "start_url": "/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
